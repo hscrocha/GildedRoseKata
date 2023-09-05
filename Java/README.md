@@ -1,15 +1,9 @@
 # Gilded Rose starting position in Java
 
-## Run the Text Fixture from Command-Line
+## Run the Example
 
-```
-./gradlew -q text
-```
+The file `MainExample` has a main method that you can run.
 
-### Specify Number of Days
+### Specify the Number of Days
 
-For e.g. 10 days:
-
-```
-./gradlew -q text --args 10
-```
+You can change the days at the variable on the main method, or pass it along as argument.
